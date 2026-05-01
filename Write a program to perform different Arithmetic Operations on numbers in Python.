@@ -1,0 +1,22 @@
+a=int(input("Enter a value")); 
+b=int(input("Enter b value")); 
+print("Addition of a and b ",a+b);
+print("Subtraction of a and b ",a-b);
+print("Multiplication of a and b ",a*b);
+print("Division of a and b ",a/b);
+print("Remainder of a and b ",a%b);
+print("Exponent of a and b ",a**b); 
+print("Floar division of a and b ",a//b); 
+
+output
+Enter a value 45
+Enter b value34
+Addition of a and b  79
+Subtraction of a and b  11
+Multiplication of a and b  1530
+Division of a and b  1.3235294117647058
+Remainder of a and b  11
+Exponent of a and b  161892029831473198287006104499893845058977603912353515625
+Floar division of a and b  1
+
+Process finished with exit code 0
